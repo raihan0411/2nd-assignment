@@ -23,5 +23,13 @@
     width: 350px;
 }
 .categories img{
-    width: 200px;
+    width: 300px;
+    background-color: rgba(231, 234, 235, 0.904);
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
 }
